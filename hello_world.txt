@@ -1,2 +1,2 @@
 THis is a test.
-i will use git add . to stage all files.
+I'm learning git and github
